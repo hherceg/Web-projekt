@@ -14,7 +14,6 @@ Struktura:
 01.01.2022.  21:34             3.458 kontakt.html
 05.01.2022.  00:41             3.137 o_nama.html
 05.01.2022.  01:07                 0 popisdatoteka.txt
-05.01.2022.  00:42                 0 Projekt_Hrvoje_Herceg.txt
 03.12.2021.  23:32             2.917 showuser2.php
 04.01.2022.  22:06             2.365 style.css
 01.01.2022.  21:41    <DIR>          videos
