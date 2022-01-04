@@ -1,3 +1,4 @@
 Ime i prezime: Hrvoje Herceg
 Smjer: ORS-I
 JMBAG: 77190441
+VELIČINA PROJEKTA: 11,6 MB
