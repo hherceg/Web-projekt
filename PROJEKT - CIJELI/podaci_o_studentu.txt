@@ -2,3 +2,24 @@ Ime i prezime: Hrvoje Herceg
 Smjer: ORS-I
 JMBAG: 77190441
 VELIČINA PROJEKTA: 11,6 MB
+
+Struktura:
+
+05.01.2022.  01:07    <DIR>          .
+05.01.2022.  01:07    <DIR>          ..
+04.01.2022.  21:37             3.703 galerija.html
+05.01.2022.  00:48    <DIR>          gallery
+04.01.2022.  23:25    <DIR>          images
+04.01.2022.  23:26             4.480 index.html
+01.01.2022.  21:34             3.458 kontakt.html
+05.01.2022.  00:41             3.137 o_nama.html
+05.01.2022.  01:07                 0 popisdatoteka.txt
+05.01.2022.  00:42                 0 Projekt_Hrvoje_Herceg.txt
+03.12.2021.  23:32             2.917 showuser2.php
+04.01.2022.  22:06             2.365 style.css
+01.01.2022.  21:41    <DIR>          videos
+04.01.2022.  22:59    <DIR>          vijesti
+05.01.2022.  00:47             4.000 vijesti.html
+               9 File(s)         24.060 bytes
+               6 Dir(s)   5.198.458.880 bytes free
+
